@@ -1,0 +1,8 @@
+{
+  "name": "doGior Does Stream",
+  "description": "Hi, I'm doGior and I do stream, but sometimes what I need is broken or unmantained so I decided to make my own repo. At the moment here you can find livestreams of different sports",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/doGior/doGiorDoesStream/builds/plugins.json"
+  ]
+}

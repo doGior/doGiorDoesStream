@@ -1,0 +1,83 @@
+[
+    {
+        "iconUrl": "https://www.animeunity.to/apple-touch-icon.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/doGior/doGiorDoesStream",
+        "fileSize": 31828,
+        "status": 1,
+        "language": "it",
+        "authors": [
+            "doGior"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "version": 1,
+        "internalName": "AnimeUnity",
+        "description": "Anime from AnimeUnity",
+        "url": "https://raw.githubusercontent.com/doGior/doGiorDoesStream/builds/AnimeUnity.cs3",
+        "name": "AnimeUnity"
+    },
+    {
+        "iconUrl": "https://static.animeworld.so/assets/images/favicon/android-icon-192x192.png?s",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/doGior/doGiorDoesStream",
+        "fileSize": 25371,
+        "status": 1,
+        "language": "it",
+        "authors": [
+            "Gian-Fr",
+            "doGior"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "version": 3,
+        "internalName": "AnimeWorld",
+        "url": "https://raw.githubusercontent.com/doGior/doGiorDoesStream/builds/AnimeWorld.cs3",
+        "name": "AnimeWorld"
+    },
+    {
+        "iconUrl": "https://streamed.su/favicon.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/doGior/doGiorDoesStream",
+        "fileSize": 21197,
+        "status": 1,
+        "language": "it",
+        "authors": [
+            "doGior"
+        ],
+        "tvTypes": [
+            "Live"
+        ],
+        "version": 1,
+        "internalName": "Streamed",
+        "description": "Live streams of different sports from streamed.su",
+        "url": "https://raw.githubusercontent.com/doGior/doGiorDoesStream/builds/Streamed.cs3",
+        "name": "Streamed"
+    },
+    {
+        "iconUrl": "https://streamingcommunity.computer/apple-touch-icon.png?v=2",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/doGior/doGiorDoesStream",
+        "fileSize": 35500,
+        "status": 1,
+        "language": "it",
+        "authors": [
+            "doGior"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 3,
+        "internalName": "StreamingCommunity",
+        "description": "TV Shows and Movies from StreamingCommunity",
+        "url": "https://raw.githubusercontent.com/doGior/doGiorDoesStream/builds/StreamingCommunity.cs3",
+        "name": "StreamingCommunity"
+    }
+]
